@@ -1,0 +1,22 @@
+body{
+    background-color: wheat;
+}
+h1{
+    color: blue;
+    text-align: center;
+    background-color: white;
+}
+.error{
+    color: red;
+    text-align: left;
+    background-color: white;
+}
+.success{
+    color: green;
+    text-align: right;
+}
+p{
+    text-align: justify;
+    color: white;
+    background-color:black;
+}
